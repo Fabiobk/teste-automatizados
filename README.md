@@ -1,5 +1,5 @@
 <<<<<<< HEAD
-## Autor: Euclides
+## Autor: Fábio
 
 ## Python 3.11.0
 
