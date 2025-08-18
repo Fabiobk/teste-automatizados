@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 ## Autor: Euclides
 
 ## Python 3.11.0
@@ -11,3 +12,6 @@ $ .env\Scripts\activate
 
 $ pip install -r requirements\requirements.txt
 $ pip install --upgrade -r requirements\requirements.txt
+=======
+"# Projeto Teste Automatizados"  
+>>>>>>> 1789bb510382fa8ecce1946be1f4ad93a27111ba
